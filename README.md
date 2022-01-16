@@ -1,7 +1,7 @@
 # my-notes
 # Name : ***Yousef Abu Qatrieh***
 # Age : 26
-# University: aL Balqa Applied University 
+# University: AL Balqa Applied University 
 # Major : software engineering 
 ## hobbies :
  1- reading articles   
